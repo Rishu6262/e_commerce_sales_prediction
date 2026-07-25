@@ -149,3 +149,24 @@ Accurate sales prediction is one of the most valuable applications of data analy
 - 🎯 Enhance marketing and promotional strategies
 
 This project demonstrates how **Machine Learning** can transform raw business data into actionable insights that support strategic planning and business growth.
+
+---
+
+# 🚀 Future Improvements
+
+The current project serves as a strong foundation and can be enhanced with additional features to improve prediction accuracy, scalability, and user experience.
+
+### Planned Enhancements
+
+- 🤖 Train and compare multiple regression algorithms (XGBoost, LightGBM, CatBoost)
+- 📈 Improve prediction accuracy through advanced feature engineering
+- 📊 Add more interactive dashboards and business analytics visualizations
+- ☁️ Deploy the FastAPI backend on cloud platforms such as Render or Railway
+- 🗄️ Integrate a database (MySQL or PostgreSQL) for data storage
+- 🔐 Implement user authentication and secure login functionality
+- 📱 Develop a fully responsive interface for mobile devices
+- 📥 Enable CSV file upload for bulk sales prediction
+- 📄 Generate downloadable PDF and Excel prediction reports
+- 📉 Monitor model performance and support automated model retraining
+- 🌍 Deploy the complete application using Docker and cloud services
+- 🔄 Build a real-time prediction API for business applications
