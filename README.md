@@ -194,3 +194,10 @@ I am passionate about building intelligent applications using **Python**, **Mach
 My interests include developing end-to-end machine learning applications, REST APIs with FastAPI, deploying interactive dashboards using Streamlit, and continuously learning modern AI technologies to solve practical business challenges.
 
 ---
+## 📬 Connect with Me
+
+- 💻 **GitHub:** https://github.com/Rishu6262
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rishu-gurjar-58072a333/
+- 📊 **Kaggle:** https://www.kaggle.com/rishugurjar
+
+⭐ If you found this project useful, please consider giving it a **Star ⭐** on GitHub. Your support and feedback are greatly appreciated!
