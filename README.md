@@ -1,7 +1,6 @@
 # 📊 E-Commerce Sales Prediction System
 
 An **End-to-End Machine Learning Regression** project developed using **Python** to predict **E-commerce Sales Revenue** based on product information, customer purchase details, category, region, quantity, and purchase date. The project combines **Machine Learning**, **FastAPI**, and **Streamlit** to deliver a complete production-style sales prediction application with an interactive and user-friendly interface.
-
 Designed as a real-world business analytics solution, this application demonstrates the complete machine learning lifecycle, including **data preprocessing**, **feature engineering**, **model training**, **model deployment**, and **web application development**. Users can instantly predict expected sales revenue through an intuitive interface while interacting with a trained regression model.
 
 This project showcases practical experience in **Data Analytics**, **Machine Learning**, **REST API Development**, **Interactive Dashboard Design**, and **Full-Stack ML Deployment**, making it an excellent portfolio project for aspiring **Machine Learning Engineers**, **Data Scientists**, **Python Developers**, and **AI Engineers**.
